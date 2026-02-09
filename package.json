@@ -1,5 +1,5 @@
 {
-  "name": "find-the-impostor",
+  "name": "forsyth-imposter",
   "version": "0.1.0",
   "private": true,
   "scripts": {
@@ -52,7 +52,7 @@
     "typescript": "^5"
   },
   "engines": {
-    "node": ">=20",
+    "node": "20.x",
     "npm": ">=9"
   }
 }
